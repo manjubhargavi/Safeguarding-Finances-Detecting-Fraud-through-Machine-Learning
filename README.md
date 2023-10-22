@@ -1,0 +1,2 @@
+# Safeguarding-Finances-Detecting-Fraud-through-Machine-Learning
+Explore our project on GitHub that focuses on keeping your money safe! We use smart technology to detect fraud in financial transactions. Dive into the code and info to see how we're making sure your credit card transactions stay secure. Join us in making online transactions safer and more reliable with the power of machine learning.
